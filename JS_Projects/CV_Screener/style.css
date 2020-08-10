@@ -1,0 +1,10 @@
+.cvscreener{ 
+    border: 4px solid #13695d;
+    background-color:white;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    /* height: 600px; */
+    width: 300px;
+    margin-top: 10px;
+}
